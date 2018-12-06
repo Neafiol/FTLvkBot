@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Heroku_v2.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VkBot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test/python-getting-started" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test2/bottle-helloworld" vcs="Git" />
+  </component>
+</project>
